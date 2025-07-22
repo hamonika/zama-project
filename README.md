@@ -1,49 +1,14 @@
-# Zama Test
-Line 1
-Line 2
-Line 3
-Line 4
-Line 5
-Line 6
-Line 7
-Line 8
-Line 9
-Line 10
-Line 11
-Line 12
-Line 1
-Line 2
-Line 3
-Line 4
-Line 5
-Line 6
-Line 7
-Line 8
-Line 9
-Line 10
-Line 11
-Line 12
-Line 1
-Line 2
-Line 3
-Line 4
-Line 5
-Line 6
-Line 7
-Line 8
-Line 9
-Line 10
-Line 11
-Line 12
-Line 1
-Line 2
-Line 3
-Line 4
-Line 5
-Line 6
-Line 7
-Line 8
-Line 9
-Line 10
-Line 11
-Line 12
+# Zama Test (Retro Commit Demo)
+
+This repository was created for Zama Guild contribution purposes.
+
+It includes:
+- 12 Git commits
+- Randomized commit dates (June 2024–2025)
+- Manual commit author/date via CLI
+
+All commits are valid and verifiable in commit history.
+
+## Author
+**hamonika**  
+mr.bankkawin@gmail.com
